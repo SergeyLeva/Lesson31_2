@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">31_1</string>
+    <string name="Рыжик">Рыжик</string>
+    <string name="Барсик">Барсик</string>
+    <string name="Мурзик">Мурзик</string>
+    <string name="ОписаниеКотаа">Описание кота</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ОписаниеКота">Описание кота</string>
+    <string name="Описание_кота">1</string>
+    <string-array name="cats">
+        <item>Просто кот</item>
+        <item>Рыжик - рыжий кот</item>
+        <item>Барсик болеет за Барселону</item>
+        <item>Мурзик выписывает Мурзилку</item>
+    </string-array>
+
+</resources>
